@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2499055c.css",
+    "main.js": "/static/js/main.12fb62a4.js",
+    "static/js/453.bb0bdb08.chunk.js": "/static/js/453.bb0bdb08.chunk.js",
+    "static/media/energyproject.jpg": "/static/media/energyproject.ee394fc3de3a28c2706a.jpg",
+    "static/media/leaf.png": "/static/media/leaf.5964734d39b0579ae4cf.png",
+    "static/media/workingtogether.jpg": "/static/media/workingtogether.dc0b217efecf1f642ea0.jpg",
+    "static/media/shirt.jpeg": "/static/media/shirt.6ff9c9818b8431b353f5.jpeg",
+    "static/media/elonmusk.jpg": "/static/media/elonmusk.293b6ef9e57d9a47ca72.jpg",
+    "static/media/davidsuzuki.jpg": "/static/media/davidsuzuki.691d932c13e5fe317b40.jpg",
+    "static/media/tesla.jpg": "/static/media/tesla.05f3a3f1602348e92231.jpg",
+    "static/media/favicon2.png": "/static/media/favicon2.7555da996f881cc5d075.png",
+    "static/media/menu-icon-png-1.jpg": "/static/media/menu-icon-png-1.651111360aa46b97a197.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.2499055c.css.map": "/static/css/main.2499055c.css.map",
+    "main.12fb62a4.js.map": "/static/js/main.12fb62a4.js.map",
+    "453.bb0bdb08.chunk.js.map": "/static/js/453.bb0bdb08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2499055c.css",
+    "static/js/main.12fb62a4.js"
+  ]
+}
