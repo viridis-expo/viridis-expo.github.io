@@ -22,13 +22,13 @@ console.log(window.pageYOffset / (document.body.offsetHeight - window.innerHeigh
                 <img src ={require('../imgs/elonmusk.jpg')} className = 'speaker'></img><img src = {require('../imgs/davidsuzuki.jpg')} className = 'speaker' id ='david'></img>
                     </div>
                 <div className = 'imgdescription'>
-                <div className ='keynotesubtext'><h1>Keynote Speakers</h1><div className>At most events, get the opportunity to learn from industry leaders, professionals, and rolemodels throughout the event.  Everyone, of all skills and ages always learns something new!   Some also sign-up as mentors, allowing full-on-interactions with these Green Energy Leaders stimulating further learning and inspiring the future generation.</div></div>
+                <div className ='keynotesubtext'><h1>Keynote Speakers</h1><div className>At most events, you can get the opportunity to learn from industry leaders, professionals, and role models throughout the event.  Everyone of all skills and ages can learn something new!   Some leaders also sign up as mentors, allowing full-on interactions with these Green Energy experts stimulating further learning and inspiring the future generation.</div></div>
                 </div>
                 </div>
                 <div className = 'keynotecontainer'>
             
                 <div className = 'imgdescription'>
-                <div className ='keynotesubtext'><h1>Work Together</h1><div style={{paddingBottom:'5vmax'}}>When you participate at Viridis, you can not only work together with your friends, but network and join a national community of Green Energy concious students, adults, professionals alike !  Each event you go to should remind you that you were never alone in solving and tackling the difficult problem of utilizing green energy.  If you're new, learn something new and join our growing community ! </div></div>
+                <div className ='keynotesubtext'><h1>Work Together</h1><div style={{paddingBottom:'5vmax'}}>When you participate at Viridis, you can not only work together with your friends but network and join a national community of Green Energy-conscious students, adults, and professionals alike!  Each event you go to should remind you that you were never alone in solving and tackling the difficult problem of utilizing green energy.  If you're new, learn something new and join our growing community!</div></div>
                 </div>
           
                 <div className = 'imgcontainerr'>
@@ -40,7 +40,7 @@ console.log(window.pageYOffset / (document.body.offsetHeight - window.innerHeigh
                 <img src ={require('../imgs/shirt.jpeg')} className = 'speaker' ></img><img src = {require('../imgs/tesla.jpg')} className = 'speaker' id ='tesla'></img>
                     </div>
                 <div className = 'imgdescription'>
-                <div className ='keynotesubtext'><h1>Win </h1><div className>Perhaps what makes will make our event so big is the opportunity to win an internship at a big company or the offical Canadian government by winning the higher-level competitions.   For all levels, get the chance to win a various of other prizes, like cash, merch, and more ! </div></div>
+                <div className ='keynotesubtext'><h1>Win </h1><div className>Perhaps what will make our event big is the opportunity to win an internship at a big company, or work for the Canadian government by winning the higher-level competitions. For all levels, get the chance to win various of other prizes, like cash, merch, and more!</div></div>
                 </div>
                 </div>
 
