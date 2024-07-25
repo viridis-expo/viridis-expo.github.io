@@ -15,7 +15,7 @@ console.log(window.pageYOffset / (document.body.offsetHeight - window.innerHeigh
             <div className ='cover'> <img src = {require('../imgs/favicon2.png')}/><div className ='text'style = {{opacity:'1'}}>Viridis Innovation Convention</div><div style = {{fontSize:'0.5em',fontWeight:'lighter'}}>Opportunities for the Youth</div><Link id ='getstarted' to ='/find-local'>Get Started</Link></div>
             <div className = 'introductioncontainer' id = 'about'>
                 <div className = 'header1'><h1>SOLVE REAL-WORLD PROBLEMS</h1></div>
-                <div className = 'about'>In Viridis Innovation Expo, is a competition for the middle-schoolers and high-schoolers that gives them the chance to participate in Green Energy Research, meet new people, challenge themselves and be part of a very important Green-energy community for the future.</div>
+                <div className = 'about'>The Viridis Innovation Expositions/Conventions are national competitions for middle-schoolers and high schoolers.  Our goal is to give them the chance to participate in Green Energy Research, meet new people, challenge themselves, and be part of the growing Green Energy community to help the future.</div>
             </div>
             <div className = 'keynotecontainer'>
                 <div className = 'imgcontainerl'>
