@@ -1,0 +1,8 @@
+
+.leaflet-container{
+    height:80vh;
+    z-index:1;
+}
+p{
+    text-align:center;
+}

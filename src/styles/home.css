@@ -1,0 +1,214 @@
+.introductioncontainer{
+/* background-image: url('../imgs/background2.jpg'); */
+display:flex;
+width:100%;
+margin:0;
+background-color:white;
+flex-direction: column;
+align-items: center;
+}
+.about{
+    display:flex;
+    justify-content: center;
+    width:70vw;
+    height:30vh;
+    font-size:1.5em;
+    text-align:center;
+    background-color:white;
+}
+.keynotesubtext{
+    font-size:1.5em;
+    width:40vw;
+}
+.tree-trunk{
+    position:relative;
+    right:10vw;
+    height:10000vh;
+    /* background-image:url('../imgs/barktexture.jpg'); */
+    width:0%;
+    opacity:0.95;
+}
+.imgcontainerl{
+    width: 60vw;
+}
+.imgcontainerr{
+   text-align:right;
+}
+.testcontainer{
+    margin-top:30vh;
+    display:flex;
+    justify-content: center;
+}
+.keynotecontainer{
+    display:flex;
+    /* justify-content: center; */
+    width:100vw;
+    height:100vmin;
+    background-color:white;
+    
+}
+.cover{
+    display:flex;
+    justify-content: center;
+    flex-direction:column;
+    width:100vw;
+    height:120vh;
+    /* background-image: url('../imgs/brightgreentexture.jpg'); */
+    color:white;
+    background-color:lightgreen;
+    font-size:3.5em;
+    text-align:center;
+    font-weight: bold;
+    align-items:center;
+}
+.text{
+    width:100%;
+
+}
+
+.leafdecorations{
+    width:100vw;
+    height:100vh;
+    background-image: url('../imgs/leaf.png');
+}
+
+.speaker{
+    max-width:40vw;
+    border-radius:2vw;
+    width:100%;
+}
+.test{
+    width: 33vw;
+    height: 30vh;
+    padding-top:10vh;
+    padding-right:10vw;
+    padding-left:10vw;
+    background-color: green;
+    /* clip-path: path(M -101 -131 C 40 -166 12 -331 -97 -442 C -203 -325 -243 -163 -101 -131 Z); */
+    color: black;
+    font-size: 1vw;
+    text-align: center;
+}
+.imgdescription{
+
+    display:flex;
+}
+#getstarted{
+    width:12vw;
+    height:5vh;
+    font-size:0.35em;
+    background-color:rgb(29, 137, 29);
+    color:rgb(218, 218, 218);
+    border-radius:1vw;
+    border:none;
+    margin-top:5vh;
+    text-decoration:none;
+    padding-top:2vh;
+}
+#getstarted:hover{
+    transform:scale(1.1);
+}
+#getstarted:active{
+    background-color:rgb(19, 175, 19);
+}
+#david{
+    position:relative;
+    top:-20vmin;
+    left:20vmax;
+    width:30vw;
+}
+#energyproject{
+    position:relative;
+    width:30vw;
+    top:-23vmin;
+    right:20vmax;
+}
+#tesla{
+    position:relative;
+    width:30vw;
+    left:20vw;
+    top: -20vh;
+}
+h1{
+    font-size:2em;
+    font-weight:bold;
+    color:rgb(29, 137, 29);
+    text-align:center;
+}
+:root{
+    height:0;
+}
+@media screen and (max-width: 767px) {
+    #david{
+        position:relative;
+        top:0;
+        left:0;
+        width:100vw;
+    }
+    #energyproject{
+        position:relative;
+        width:100vw;
+        top:0;
+        right:0;
+    }
+    #tesla{
+        position:relative;
+        width:100vw;
+        right:0vw;
+        top:0;
+        left:0;
+    }
+    .imgcontainerl,.imgcontainerr{
+        width: 100vw;
+        text-align:center;
+    }
+    .imgcontainerl{
+        margin-top:10vh;
+        }
+    .cover{
+        font-size:2.5em;
+        height:80vh;
+    }
+    .keynotecontainer{
+        flex-direction: column;
+        margin-top:50vh;
+        font-size:smaller;
+        height:30vmax;
+    }
+    .keynotesubtext{
+        flex-direction:column;
+        width:100vw;
+        font-size:1.5em;
+        position:static;
+    }
+    .speaker{
+        width:100vw;
+    }
+    .imgcontainerl{
+        width:100%;
+    }
+}
+
+@media screen and (min-height: 1000px) {
+    /* Styles for very tall screens */
+  #tesla{
+    position:relative;
+    width:30vw;
+    left:20vw;
+    top:-8vh;
+  }
+  #david{
+    position:relative;
+    top:-15vmin;
+    left:20vmax;
+    width:30vw;
+  }
+  #energyproject{
+    position:relative;
+    width:30vw;
+    top:-18vmin;
+    right:20vmax;
+  }
+
+}
+

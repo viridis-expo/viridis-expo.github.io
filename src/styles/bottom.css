@@ -1,0 +1,32 @@
+.bottomcontainer {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 20vh;
+    background-color: lightgreen;
+    margin-top:30vh;
+}
+
+@media screen and (max-width: 600px) {
+    /* Styles for small screens */
+    .bottomcontainer {
+        height: 15vh; /* Adjust the height for small screens */
+        background-color: lightgreen;
+        margin-top: 60vh;
+        font-size: 0.5em;
+    }
+
+}
+
+
+
+@media screen and (min-height: 1000px) {
+    /* Styles for very tall screens */
+    .bottomcontainer {
+        height: 5vh; /* Adjust the height for very tall screens */    background-color: lightgreen;
+        font-size:0.5em;
+        margin-top:30vh;
+    }
+
+}
