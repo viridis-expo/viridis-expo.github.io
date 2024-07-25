@@ -4,6 +4,7 @@ import { HashRouter, Route, Routes } from 'react-router-dom';
 import Home from './pages/home.jsx';
 import About from './pages/about.jsx';
 import FindLocal from './pages/find-local.jsx';
+import Contact from './pages/contact.jsx';
 function App() {
   return (
     <>
@@ -12,6 +13,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path = '/about' element={<About />} />
         <Route path = '/find-local' element={<FindLocal />} />
+        <Route path = '/contact' element={<Contact/>} />
         <Route path = '*' element  = {<h1>404</h1>} />
         </Routes>
 

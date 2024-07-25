@@ -1,0 +1,14 @@
+#goback{
+    text-align:center;
+    width:15vw;
+    height:10vh;
+    border-color:none;
+    background-color:rgb(93, 235, 93);
+    color:white;
+    font-weight:bold;
+}
+.gobackcontainer{
+    display:flex;
+    justify-content: center;
+
+}
